@@ -1,12 +1,12 @@
-## Olá! Eu sou Charles Bruno, mas você pode me chamar de Bruno👋
+👨‍💻 Comprometido com a Inovação Tecnológica 🚀
 
 <p>
-Sou uma pessoa curiosa e que gosta de resolver problemas. Aprender faz parte do meu dia a dia e os desafios me mantêm sempre motivado a descobrir as melhores soluções.
-Atualmente curso Graduação em Bacharelado em Sistemas de Informações. 
-Estou me capacitando  em programação Javascript e React.
-Possuo experiência em SQL, migração de banco de dados Firebird e SQLServer, além de suporte e instalação de sistemas voltado para automação comercial.
-Busco oportunidades para estagiar na área de tecnologia da informação, onde eu possa desenvolver meus conhecimentos técnicos e crescer junto com a empresa e meus colegas de trabalho.
+  Olá, sou apaixonado por resolver problemas complexos e criar soluções inovadoras na área de tecnologia da informação. Atualmente, estou cursando Graduação em Bacharelado em Sistemas de Informações, onde venho desenvolvendo habilidades sólidas em programação, especialmente em JavaScript e React para o frontend, além de ter experiência em SQL, migração de banco de dados e suporte a sistemas de automação comercial.
+
+  Estou em constante aprendizado e me dedicando ao desenvolvimento de projetos pessoais e de colaboração, buscando contribuir para a comunidade de código aberto e aprender com outros desenvolvedores. Meu foco é sempre encontrar as melhores práticas e soluções técnicas para entregar produtos de alta qualidade e usabilidade.
+  Vamos criar juntos e impulsionar a inovação!
 </p>
+
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=charlesbrcosta&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Your Github Stats">  
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charlesbrcosta&layout=compact&theme=dark&langs_count=10&card_width=400&custom_height=300" alt="Top Langs">
