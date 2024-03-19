@@ -1,7 +1,7 @@
-👨‍💻 Comprometido com a Inovação Tecnológica 🚀
-
+#  👨‍💻 Comprometido com a Inovação Tecnológica 🚀
+##  Olá, meu nome é Charles Bruno, mas você pode me chamar de Bruno.
 <p>
-  Olá, sou apaixonado por resolver problemas complexos e criar soluções inovadoras na área de tecnologia da informação. Atualmente, estou cursando Graduação em Bacharelado em Sistemas de Informações, onde venho desenvolvendo habilidades sólidas em programação, especialmente em JavaScript e React para o frontend, além de ter experiência em SQL, migração de banco de dados e suporte a sistemas de automação comercial.
+  Sou apaixonado por resolver problemas complexos e criar soluções inovadoras na área de tecnologia da informação. Atualmente, estou cursando Graduação em Bacharelado em Sistemas de Informações, onde venho desenvolvendo habilidades sólidas em programação, especialmente em JavaScript e React para o frontend, além de ter experiência em SQL, migração de banco de dados e suporte a sistemas de automação comercial.
 
   Estou em constante aprendizado e me dedicando ao desenvolvimento de projetos pessoais e de colaboração, buscando contribuir para a comunidade de código aberto e aprender com outros desenvolvedores. Meu foco é sempre encontrar as melhores práticas e soluções técnicas para entregar produtos de alta qualidade e usabilidade.
   Vamos criar juntos e impulsionar a inovação!
