@@ -1,5 +1,7 @@
-#  👨‍💻 Comprometido com a Inovação Tecnológica 🚀
-##  Olá, meu nome é Charles Bruno, mas você pode me chamar de Bruno.
+<h1>Olá, meu nome é Charles Bruno, mas você pode me chamar de Bruno.</h1>
+
+<h3>👨‍💻 Comprometido com a Inovação Tecnológica 🚀</h3>
+
 <p>
   Sou apaixonado por resolver problemas complexos e criar soluções inovadoras na área de tecnologia da informação. Atualmente, estou cursando Graduação em Bacharelado em Sistemas de Informações, onde venho desenvolvendo habilidades sólidas em programação, especialmente em JavaScript e React para o frontend, além de ter experiência em SQL, migração de banco de dados e suporte a sistemas de automação comercial.
 
