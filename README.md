@@ -27,4 +27,4 @@ Busco oportunidades para estagiar na área de tecnologia da informação, onde e
   
 </div>
 
-![Snake animation](https://github.com/charlesbrcosta/charlesbrcosta/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/charlesbrcosta/charlesbrcosta/blob/output/github-contribution-grid-snake.gif)
