@@ -36,9 +36,9 @@
 
 <div style="display: inline_block"><br>
   <p>Desafio 1 - Decodificador de textos</p>
-  <img align="center" alt="Challenge 1 - Decodificador de textos" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg](https://drive.google.com/file/d/1QGrYdpBObzksOB7byiI3XXA25IpSCvLp/view?usp=drive_link)">
+  <img align="center" alt="Challenge 1 - Decodificador de textos" height="30" width="40" src="https://drive.google.com/file/d/1QGrYdpBObzksOB7byiI3XXA25IpSCvLp/view?usp=sharing">
   <p>Desafio 2 - Portfolio</p>
-  <img align="center" alt="Challenge 2 - Portfolio" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg](https://drive.google.com/file/d/1z1VxrwD-Nf77vcy2RSdCeg67flPMnQBq/view?usp=drive_link)">
+  <img align="center" alt="Challenge 2 - Portfolio" height="30" width="40" src="https://drive.google.com/file/d/1z1VxrwD-Nf77vcy2RSdCeg67flPMnQBq/view?usp=drive_link">
   <p>Desafio 3 - AluraGeek</p
-  <img align="center" alt="Challenge 3 - AluraGeek" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg](https://drive.google.com/file/d/1YbP-XyYAeGkVGrWPgHCc4kLUBxzbD9Po/view?usp=drive_link)">
+  <img align="center" alt="Challenge 3 - AluraGeek" height="30" width="40" src="https://drive.google.com/file/d/1YbP-XyYAeGkVGrWPgHCc4kLUBxzbD9Po/view?usp=drive_link">
 </div>
