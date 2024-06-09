@@ -34,7 +34,7 @@
 
 ### Minhas conquistas - challenges OracleNextOne
 
-<div style="display: inline"><br>
+<div style="display: flex; gap: 20px;">
   <div>
     <p>Desafio 1 - Decodificador de textos</p>
     <img align="center" alt="Challenge 1 - Decodificador de textos" width="200" src="https://github.com/charlesbrcosta/charlesbrcosta/blob/main/Badge-Challenge1-%20Decodificador.png">
@@ -44,7 +44,7 @@
     <img align="center" alt="Challenge 2 - Portfolio" width="200" src="https://github.com/charlesbrcosta/charlesbrcosta/blob/main/Badge-Challenge2-Portfolio.png">
   </div>
   <div>
-    <p>Desafio 1 - AluraGeek</p>
+    <p>Desafio 3 - AluraGeek</p>
     <img align="center" alt="Challenge 3 - AluraGeek" width="200" src="https://github.com/charlesbrcosta/charlesbrcosta/blob/main/Badge-Challenge2-Portfolio.png">
   </div>
 </div>
