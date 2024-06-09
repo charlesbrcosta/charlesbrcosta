@@ -3,7 +3,7 @@
 <h3>👨‍💻 Comprometido com a Inovação Tecnológica 🚀</h3>
 
 <p>
-  Sou apaixonado por resolver problemas complexos e soluções inovadoras na área de tecnologia da informação. Atualmente, estou cursando Graduação em Bacharelado em Sistemas de Informações, onde venho desenvolvendo habilidades sólidas em programação, especialmente em JavaScript e React para o frontend, além de ter experiência em SQL, migração de banco de dados e suporte a sistemas de automação comercial.
+  Sou um desenvolvedor apaixonado em aprender, resolver desafios e busco sempre soluções inovadoras na área de tecnologia da informação. Atualmente, estou cursando Graduação em Bacharelado em Sistemas de Informações, onde venho desenvolvendo habilidades sólidas em programação, especialmente em JavaScript e React para o frontend, além de ter experiência em SQL, migração de banco de dados e suporte a sistemas de automação comercial.
 
   Estou em constante aprendizado e me dedicando ao desenvolvimento de projetos pessoais e em um futuro próximo quero me dedicar a projetos colaborativos, buscando contribuir para a comunidade de código aberto e aprender com outros desenvolvedores. Meu foco vai ser encontrar as melhores práticas e soluções técnicas para entregar produtos de alta qualidade e usabilidade.
   Vamos criar juntos e impulsionar a inovação!
@@ -27,3 +27,14 @@
   <a href = "mailto:charlesbrcosta@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/charlesbrcosta" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
+
+##
+
+<h3>Atualmente, estou participando do programa OracleNextOne como parte do curso de formação em Front End. Aqui estão algumas das minhas conquistas recentes nesse percurso.</h3>
+
+
+### Minhas conquistas - challenges OracleNextOne
+
+![Desafio 1 - Decodificador de textos](https://drive.google.com/file/d/1QGrYdpBObzksOB7byiI3XXA25IpSCvLp/view?usp=drive_link)
+![Desafio 2 - Portfolio](https://drive.google.com/file/d/1z1VxrwD-Nf77vcy2RSdCeg67flPMnQBq/view?usp=drive_link)
+![Desafio 3 - AluraGeek](https://drive.google.com/file/d/1YbP-XyYAeGkVGrWPgHCc4kLUBxzbD9Po/view?usp=drive_link)
