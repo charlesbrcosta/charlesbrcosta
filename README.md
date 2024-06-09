@@ -39,15 +39,15 @@
   <tr>
     <td>
       <p>Desafio 1 - Decodificador de textos</p>
-      <img align="center" alt="Challenge 1 - Decodificador de textos" width="200" src="https://github.com/charlesbrcosta/charlesbrcosta/blob/main/Badge-Challenge1-%20Decodificador.png">
+      <img align="center" alt="Challenge 1 - Decodificador de textos" width="250" src="https://github.com/charlesbrcosta/charlesbrcosta/blob/main/Badge-Challenge1-%20Decodificador.png">
     </td>
     <td>
       <p>Desafio 2 - Portfolio</p>
-      <img align="center" alt="Challenge 2 - Portfolio" width="200" src="https://github.com/charlesbrcosta/charlesbrcosta/blob/main/Badge-Challenge2-Portfolio.png">
+      <img align="center" alt="Challenge 2 - Portfolio" width="250" src="https://github.com/charlesbrcosta/charlesbrcosta/blob/main/Badge-Challenge2-Portfolio.png">
     </td>
     <td>
       <p>Desafio 3 - AluraGeek</p>
-      <img align="center" alt="Challenge 3 - AluraGeek" width="200" src="https://github.com/charlesbrcosta/charlesbrcosta/blob/main/Badge-Challenge3-AluraGeek.png">
+      <img align="center" alt="Challenge 3 - AluraGeek" width="250" src="https://github.com/charlesbrcosta/charlesbrcosta/blob/main/Badge-Challenge3-AluraGeek.png">
     </td>
   </tr>
 </table>
