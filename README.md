@@ -34,17 +34,19 @@
 
 ### Minhas conquistas - challenges OracleNextOne
 
-<div style="display: flex; gap: 20px;">
-  <div>
-    <p>Desafio 1 - Decodificador de textos</p>
-    <img align="center" alt="Challenge 1 - Decodificador de textos" width="200" src="https://github.com/charlesbrcosta/charlesbrcosta/blob/main/Badge-Challenge1-%20Decodificador.png">
-  </div>
-  <div>  
-    <p>Desafio 2 - Portfolio</p>
-    <img align="center" alt="Challenge 2 - Portfolio" width="200" src="https://github.com/charlesbrcosta/charlesbrcosta/blob/main/Badge-Challenge2-Portfolio.png">
-  </div>
-  <div>
-    <p>Desafio 3 - AluraGeek</p>
-    <img align="center" alt="Challenge 3 - AluraGeek" width="200" src="https://github.com/charlesbrcosta/charlesbrcosta/blob/main/Badge-Challenge2-Portfolio.png">
-  </div>
-</div>
+<table>
+  <tr>
+    <td>
+      <p>Desafio 1 - Decodificador de textos</p>
+      <img align="center" alt="Challenge 1 - Decodificador de textos" width="200" src="https://github.com/charlesbrcosta/charlesbrcosta/blob/main/Badge-Challenge1-%20Decodificador.png">
+    </td>
+    <td>
+      <p>Desafio 2 - Portfolio</p>
+      <img align="center" alt="Challenge 2 - Portfolio" width="200" src="https://github.com/charlesbrcosta/charlesbrcosta/blob/main/Badge-Challenge2-Portfolio.png">
+    </td>
+    <td>
+      <p>Desafio 3 - AluraGeek</p>
+      <img align="center" alt="Challenge 3 - AluraGeek" width="200" src="https://github.com/charlesbrcosta/charlesbrcosta/blob/main/Badge-Challenge3-AluraGeek.png">
+    </td>
+  </tr>
+</table>
