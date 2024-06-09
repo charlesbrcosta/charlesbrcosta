@@ -3,7 +3,7 @@
 <h3>👨‍💻 Comprometido com a Inovação Tecnológica 🚀</h3>
 
 <p>
-  Sou um desenvolvedor apaixonado em aprender, resolver desafios e busco sempre soluções inovadoras na área de tecnologia da informação. Atualmente, estou cursando Graduação em Bacharelado em Sistemas de Informações, onde venho desenvolvendo habilidades sólidas em programação, especialmente em JavaScript e React para o frontend, além de ter experiência em SQL, migração de banco de dados e suporte a sistemas de automação comercial.
+  Sou um desenvolvedor apaixonado em aprender, resolver desafios e busco sempre soluções inovadoras na área de tecnologia da informação. Atualmente, estou cursando Graduação em Bacharelado em Sistemas de Informações, onde venho desenvolvendo habilidades sólidas em programação, especialmente em JavaScript e React para o Front-end, além de ter experiência em SQL, migração de banco de dados e suporte a sistemas de automação comercial.
 
   Estou em constante aprendizado e me dedicando ao desenvolvimento de projetos pessoais e em um futuro próximo quero me dedicar a projetos colaborativos, buscando contribuir para a comunidade de código aberto e aprender com outros desenvolvedores. Meu foco vai ser encontrar as melhores práticas e soluções técnicas para entregar produtos de alta qualidade e usabilidade.
   Vamos criar juntos e impulsionar a inovação!
@@ -30,8 +30,8 @@
 
 ##
 
-<p>Atualmente, estou participando do programa One do curso de formação front-end da Alura em parceria com a Oracle, como parte do curso de formação em Front End. Aqui estão algumas das minhas conquistas recentes nesse percurso.</p>
-<p>Cada badge representa um desafio que completei com sucesso durante o curso, mostrando meu progresso e dedicação em aprender novas habilidades em desenvolvimento front end.</p>
+<p>Atualmente, estou participando do programa One da Alura em parceria com a Oracle, como parte do curso de formação em Front-end. Aqui estão algumas das minhas conquistas recentes nesse percurso.</p>
+<p>Cada badge representa um desafio que completei com sucesso durante o curso, mostrando meu progresso e dedicação em aprender novas habilidades em desenvolvimento Front-end.</p>
 
 <h4>Minhas conquistas (badges) - challenges OracleNextOne</h4>
 
