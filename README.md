@@ -30,7 +30,7 @@
 
 ##
 
-<p>Atualmente, estou participando do programa OracleNextOne como parte do curso de formação em Front End. Aqui estão algumas das minhas conquistas recentes nesse percurso.</p>
+<p>Atualmente, estou participando do programa One do curso de formação front-end da Alura em parceria com a Oracle, como parte do curso de formação em Front End. Aqui estão algumas das minhas conquistas recentes nesse percurso.</p>
 <p>Cada badge representa um desafio que completei com sucesso durante o curso, mostrando meu progresso e dedicação em aprender novas habilidades em desenvolvimento front end.</p>
 
 <h4>Minhas conquistas (badges) - challenges OracleNextOne</h4>
