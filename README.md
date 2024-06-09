@@ -35,7 +35,7 @@
 
 <h4>Minhas conquistas (badges) - challenges OracleNextOne</h4>
 
-<table align="center">
+<table>
   <tr>
     <td align="center">
       <p>Desafio 1 - Decodificador de textos</p>
