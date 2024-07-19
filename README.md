@@ -49,5 +49,9 @@
       <p>Desafio 3 - AluraGeek</p>
       <img alt="Challenge 3 - AluraGeek" width="250" src="https://github.com/charlesbrcosta/charlesbrcosta/blob/main/Badge-Challenge3-AluraGeek.png">
     </td>
+    <td align="center">
+      <p>Desafio 4 - AluraFlix</p>
+      <img alt="Challenge 4 - AluraFlix" width="250" src="https://github.com/charlesbrcosta/charlesbrcosta/blob/main/Badge-Challenge4-AluraFlix.png">
+    </td>
   </tr>
 </table>
